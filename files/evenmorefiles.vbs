@@ -1,0 +1,1 @@
+MsgBox("Done, your computer is fully infected and do not shutdown, as it will make your computer unusable, and do not close StinkyVirus aswell, as it will force your computer to bluescreen, resulting a simular result.")
